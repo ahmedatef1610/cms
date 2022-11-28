@@ -1,2 +1,2 @@
 # cms 👍
-https://application-cms.herokuapp.com/
+https://application-cms.up.railway.app/
